@@ -1,8 +1,9 @@
-# binary_clock
-Workspace and Instructions to bild a binary clock
+# binary clock
+Workspace and Instructions to bild a binary clock with the Raspberry pi and a little bit of hardware.
 
-very early stage
+# Actual status
+-in development
+-very early stage
 
-uncommented program
-
-status: planning
+# last things done
+I have written a python script for the operations and the output on the LED-matrix of the SenseHat / SenseHat Emulator.
