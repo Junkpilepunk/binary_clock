@@ -1,5 +1,5 @@
 # binary clock
-Workspace and Instructions to bild a binary clock with the Raspberry pi and a little bit of hardware.
+Workspace and Instructions to build a binary clock with the Raspberry pi and a little bit of hardware.
 
 # Actual status
 -in development
